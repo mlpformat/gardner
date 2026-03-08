@@ -1,2 +1,2 @@
 # gardner
-work area for an assignment in CSUS CSC60 during spring 2026
+work area for an assignment in CSC 60 at CSU Sacramento during spring 2026
